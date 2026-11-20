@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-11-20T05:48:07.411755839Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-11-20T05:48:52.570627181Z",
     "templateType": "trip_l",
     "propertyId": "0aad7d62-0860-41ce-9a35-f5724933fd0c",
     "homepageId": "01a0ae47-2151-7b43-870c-84c61ba2ac2f"
@@ -1454,8 +1454,8 @@
         "nameEn": "Your muse",
         "images": [
           {
-            "id": "01a0ae47-4903-7aab-b361-401e33c55594",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ae47-2151-7b43-870c-84c61ba2ac2f/property_exterior/1789630298449-rjkam2fa9b.jpg",
+            "id": "01a1f780-1ec7-7dfc-982f-c522a6274820",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ae47-2151-7b43-870c-84c61ba2ac2f/property_exterior/1795153731013-f22tb6zrk5.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -1463,8 +1463,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "01a0ae47-4935-783c-8897-2493be921f85",
-            "url": "https://bluenight.co.kr/assets/images/view/15.webp",
+            "id": "01a1f780-1eb2-757e-a816-3e66d3366c17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ae47-2151-7b43-870c-84c61ba2ac2f/property_surrounding/1795153731014-grbs7elj65.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
